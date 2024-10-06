@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rohit Kumar Mahor (@Rk85783)
+- 👋 Hi, I’m Rohit Kumar Mahor (@Rk85783), I am a Backend Engineer in Node JS, Express JS.
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS, 
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Just send a mail to rk@85783@gmail.com
 - 😄 Pronouns: ... 
